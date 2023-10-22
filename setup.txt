@@ -1,1 +1,2 @@
 contains install instructions
+more details
