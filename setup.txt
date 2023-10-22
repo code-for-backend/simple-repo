@@ -1,2 +1,4 @@
 contains install instructions
 this line is for setup.txt in simple-repo
+more details
+
